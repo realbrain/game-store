@@ -1,1 +1,1 @@
-# tick-tack-toe-game
+# Open Source Game Repository.
